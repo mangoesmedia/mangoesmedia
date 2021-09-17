@@ -3,6 +3,8 @@
 - 🌱 I’m currently sleeping so dont disturbe
 - 💞️ I’m looking to collaborate on ...my works 
 - 📫 How to reach me ...instagram id @mangoes_media
+- ![mangoesmedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangoesmedia&show_icons=true)
+
 [![mangoesmedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangoesmedia)](https://github.com/mangoesmedia/github-readme-stats)
 
 <!---
